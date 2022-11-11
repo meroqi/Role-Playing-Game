@@ -20,19 +20,19 @@
  Αφού κατέβασα τα αρχεία, τα έκανα import στο unity και επέλεξα τον ήρωα. Στη συνέχεια αφού δημιουργήθηκε το 2D GameObject(gameboy_rpg_v09_659), το μετονόμασα.
  
 
-![Screenshot](Screenshot(1).png)
+![Screenshot](1.png)
  
  Στη συνέχεια δημιούργησα ενα script και με τον ανάλογο κώδικα έδωσα κίνηση στον χαρακτήρα προν τον x και y άξονα,
  επιλέγοντας επίσης και την ταχύτητα που του ταιριάζει (3.0f).
  
  //εικόνα 2 
- ![Screenshot](Screenshot(2).png)
+ ![Screenshot](2.png)
  
  Για να δημιουργήσω το περιβάλλον έφτιαξα ενα tilemap και έκοψα τα sprites μου, μετά έχοντάς τα στο tile Pallete άρχισα να τα συνθέτω στο grid
  ωστε να διμουργήθεί η πίστα. 
  
  //εικόνα 3α
- ![Screenshot](Screenshot3.png)
+ ![Screenshot](3.png)
  
  //εικονα 3
  
@@ -41,11 +41,11 @@
  Να δημιουργείται επίσης η αίσθηση μετάβασης σε άλλη πίστα, που θα πραγματοποιηθεί σε επόμενη εξέληξη του παιχνιδιού. 
  
  //4
- ![Screenshot](Screenshot4.png)
+ ![Screenshot](4.png)
  
- ![Screenshot](Screenshot5.png)
- ![Screenshot](Screenshot6.png)
- ![Screenshot](Screenshot7.png)
+ ![Screenshot](5.png)
+ ![Screenshot](6.png)
+ ![Screenshot](7.png)
 
 
 # 2nd Deliverable

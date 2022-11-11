@@ -32,9 +32,8 @@
  ωστε να διμουργήθεί η πίστα. 
  
  
- ![Screenshot](3α.png)
- .
  ![Screenshot](3.png)
+ ![Screenshot](3α.png)
  
 
  
